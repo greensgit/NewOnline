@@ -3,7 +3,10 @@ package org.demo;
 public class Demo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Employee Name is Raj");		
+		System.out.println("Employee Company is abcd");		
+		System.out.println("Employee Company is abcd");		
+
 
 	}
 
