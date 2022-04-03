@@ -6,7 +6,8 @@ public class Demo {
 		System.out.println("Employee Name is Raj");		
 		System.out.println("Employee Company is abcd");		
 		System.out.println("Employee Company is abcd");		
-		System.out.println("Branch master");	
+		System.out.println("Branch master");
+		System.out.println("Branch demo");
 
 	}
 
